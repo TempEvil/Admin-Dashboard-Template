@@ -26,6 +26,7 @@ Easily customizable with environment variables and constants.
 
 ## 📂 Project Structure
 
+```bash
 src/
 ├── assets/ # Fonts, icons, images, languages (for translation)
 │ ├── fonts/
@@ -65,7 +66,7 @@ src/
 ├── index.tsx # ReactDOM render entry
 ├── index.css # Global styles
 └── main.tsx # App
-
+```
 ---
 
 ## ⚙️ Environment Variables
