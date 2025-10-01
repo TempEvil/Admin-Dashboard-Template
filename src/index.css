@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #0b1215;
+  font-family: "Poppins-Regular", "Hanuman", Arial, Helvetica, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
+
+/*//? Font */
+@font-face {
+  font-family: "Hanuman";
+  src: url(./assets/fonts/hanuman/Hanuman-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url(./assets/fonts/poppins/Poppins-Regular.ttf);
+}
+
+/*? Chakra input style (force height) */
+.chakra-input {
+  height: 38px !important;
+}

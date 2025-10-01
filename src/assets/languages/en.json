@@ -1,0 +1,36 @@
+{
+  "translation": {
+    "N°": "N°",
+    "no": "No",
+    "of": "of",
+    "yes": "Yes",
+    "All": "All",
+    "name": "Name",
+    "save": "Save",
+    "back": "Back",
+    "demo": "Demo",
+    "close": "Close",
+    "khmer": "Khmer",
+    "action": "Action",
+    "create": "Create",
+    "english": "English",
+    "setting": "Setting",
+    "add_new": "Add New",
+    "languages": "Languages",
+    "dashboard": "Dashboard",
+    "reload_page": "Reload Page",
+    "Rows per page:": "Rows per page:",
+    "choose_language": "Choose Language",
+    "confirm_message": "Confirm Message",
+    "are_you_sure_you_want_to_exit?": "Are you sure you want to exit?",
+    "There are no records to display.": "There are no records to display.",
+
+    "name_is_required": "Name is required",
+
+    "add_new_dashboard": "Add New Dashboard",
+
+    "edit_dashboard's_information": "Edit Dashboard's Information",
+
+    "view_dashboard's_information": "View Dashboard's Information"
+  }
+}

@@ -1,0 +1,43 @@
+# Build output
+dist/
+build/
+
+# Vite / tooling caches
+.vite/
+.eslintcache
+
+# TypeScript incremental build info
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files (keep secrets out of git)
+.env
+.env.*
+!.env.example    # commit a sample env file instead
+
+# Test / coverage (if you add tests later)
+coverage/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.sw?
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+node_modules
+
+package-lock.json
+pnpm-lock.yaml

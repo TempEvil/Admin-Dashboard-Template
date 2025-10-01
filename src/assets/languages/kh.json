@@ -1,0 +1,35 @@
+{
+  "translation": {
+    "no": "ទេ",
+    "of": "នៃ",
+    "N°": "ល.រ.",
+    "yes": "ព្រម",
+    "close": "បិទ",
+    "name": "ឈ្មោះ",
+    "All": "ទាំងអស់",
+    "save": "រក្សាទុក",
+    "create": "បង្កើត",
+    "khmer": "ភាសាខ្មែរ",
+    "languages": "ភាសា",
+    "add_new": "បង្កើតថ្មី",
+    "back": "ត្រឡប់ក្រោយ",
+    "action": "សកម្មភាព",
+    "setting": "ការកំណត់",
+    "dashboard": "ផ្ទាំងបង្ហាញ",
+    "english": "ភាសាអង់គ្លេស",
+    "confirm_message": "សារបញ្ជាក់",
+    "reload_page": "ផ្ទុកទំព័រឡើងវិញ",
+    "choose_language": "ជ្រើសរើសភាសា",
+    "Rows per page:": "ជួរដេកក្នុងមួយទំព័រ:",
+    "are_you_sure_you_want_to_exit?": "តើ​អ្នក​ប្រាកដ​ជា​ចង់​ចាក់ចេញ?",
+    "There are no records to display.": "មិនមានទិន្នន័យត្រូវបង្ហាញទេ។",
+
+    "name_is_required": "តម្រូវបំពេញ ឈ្មោះ",
+
+    "add_new_dashboard": "បង្កើត ផ្ទាំងបង្ហាញថ្មី",
+
+    "edit_dashboard's_information": "កែសម្រួលព័ត៌មាន ផ្ទាំងបង្ហាញថ្មី",
+
+    "view_dashboard's_information": "មើ់លព័ត៌មាន ផ្ទាំងបង្ហាញថ្មី"
+  }
+}
